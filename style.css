@@ -2,13 +2,13 @@
 		 font-family:'Courier New', Courier, monospace;
 	   }
 	   body{
-		   background: linear-gradient(#c1cdcd,#e3e8e6);
+		   background: linear-gradient(#cdc1c8,#b0b0d3);
 		   height: 750px;
 		   font-family:'Courier New', Courier, monospace;
 	   }
 	  
 	  div.main{
-			      background:linear-gradient(rgb(240, 194, 45)	,rgb(242, 242, 242));
+			      background:linear-gradient(rgb(45, 240, 61)	,rgb(202, 245, 197));
 				  border-radius:10px;
 				  padding: 10px 200px 20px 40px;
 				  margin: 250px;
